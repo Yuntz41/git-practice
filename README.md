@@ -1,2 +1,2 @@
 # 我的第一個 Git 專案
-用來學習 Git 和 GitHub 的基本操作
+這是我使用 Git 練習版本控制的 README。
